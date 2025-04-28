@@ -21,8 +21,6 @@ export default function AdFullDetailView() {
                     </div>
                 </div>
 
-
-
                 <div>
                     {/* //this is image section  */}
                     <img
