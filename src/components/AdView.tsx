@@ -6,20 +6,18 @@ export default function AdView() {
        
         <div className="flex p-6 flex-col gap-8">
 
-          <h1 className="text-4xl">Ayush : TodoList Pvt ltd</h1>
+          <h1 className="text-4xl">Yash : TodoList Pvt ltd</h1>
           <h1 className="text-md">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            itaque ipsum vitae deserunt quis? Ad perspiciatis rerum officiis ab
-            eveniet earum explicabo.
+            This is the worlds best TodoList Website ever created by humanity proudly owned by Yash Gautam.
           </h1>
 
 
           <div className="flex flex-row gap-8">
             <button type="button" className="bg-blue-600 text-white px-7 rounded-md w-32 ">
-              Visit
+              Save
             </button>
             <button type="button" className="bg-none px-7 text-gray-500 border-1 rounded-md" >
-              Learn More
+              Delete Listing
             </button>
           </div>
         </div>
@@ -29,9 +27,9 @@ export default function AdView() {
         <div>
           {/* //Picture on the right side */}
           <img
-            src="https://blog.lulu.com/content/images/2024/12/072120-ToDoList-Blog.png"
+            src="https://i.scdn.co/image/ab6765630000ba8af051fb24077dd90d2489504f"
             alt="Ad IMage for"
-            className="w-full h-48 object-cover rounded-xl mt-4 pr-6"
+            className="w-full h-48 object-cover rounded-xl mt-4 mb-4"
           />
         </div>
       </div>
