@@ -43,7 +43,7 @@ export default function FullPage(){
       </div>
       <div className="flex flex-col">
 
-      <div className="flex flex-wrap justify-center items-center m-3">
+      <div className="flex flex-wrap justify-start items-center m-3">
 
         <img className=" w-48 h-32 border rounded m-3" src="https://tse1.mm.bing.net/th?id=OIP.O4Jy7AhDP20PTZmimWI5XwHaEK&pid=Api&P=0&h=180" alt="pic" />
         <img className="w-48 h-32 border rounded m-3" src="http://br.web.img2.acsta.net/pictures/18/06/29/00/35/0101925.jpg" alt="pic" />
@@ -51,7 +51,7 @@ export default function FullPage(){
         
 </div>
 
-<div className="flex flex-wrap justify-end items-center m-4 ">
+<div className="flex flex-wrap justify-start items-center m-4 ">
     <img
       className="w-48 h-32 border rounded m-3  object-cover"
       src="https://vistapointe.net/images/robert-downey-jr-9.jpg"
